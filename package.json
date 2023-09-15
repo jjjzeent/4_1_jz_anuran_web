@@ -1,0 +1,11 @@
+{
+  "name": "4_1_jz_anuran_web",
+  "version": "1.0.0",
+  "description": "this is an exmaple of a full stack web application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janzent Anuran",
+  "license": "ISC"
+}
